@@ -9,3 +9,4 @@ def layer(X,w,b):
 
 
 
+
